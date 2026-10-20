@@ -1,6 +1,8 @@
 <?php
 
 require 'funciones.php';
+require 'env.php';
+cargarEnv(__DIR__ . '/.env');
 require 'config/database.php';
 require __DIR__ . '/../vendor/autoload.php';
 

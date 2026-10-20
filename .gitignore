@@ -1,0 +1,11 @@
+# Credenciales
+.env
+includes/.env
+
+# Dependencias
+/vendor/
+/node_modules/
+
+# Sistema
+.DS_Store
+Thumbs.db
