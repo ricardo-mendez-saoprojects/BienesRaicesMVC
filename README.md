@@ -1,5 +1,9 @@
 # BienesRaicesMVC
 
+> **Proyecto de formación.** Hecho siguiendo el curso *Desarrollo Web Completo* de
+> Juan Pablo De la Torre Valdez ([Código Con Juan](https://codigoconjuan.com)),
+> que hice como formación profesional para mi trabajo.
+
 Portal inmobiliario con PHP orientado a objetos, patrón MVC propio, ActiveRecord y MySQL: listado de propiedades, área de administración de propiedades y vendedores, y formulario de contacto con PHPMailer.
 
 ## Configuración
